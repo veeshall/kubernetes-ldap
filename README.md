@@ -1,4 +1,4 @@
-# kubernetes-ldap
+# kubernetes-ldap 
 [![Build Status](https://travis-ci.org/kismatic/kubernetes-ldap.svg?branch=master)](https://travis-ci.org/kismatic/kubernetes-ldap)
 [![Go Report Card](https://goreportcard.com/badge/github.com/kismatic/kubernetes-ldap)](https://goreportcard.com/report/github.com/kismatic/kubernetes-ldap)
 [![GoDoc](https://godoc.org/github.com/kismatic/kubernetes-ldap?status.svg)](https://godoc.org/github.com/kismatic/kubernetes-ldap)
@@ -6,7 +6,7 @@
 Lightweight Directory Access Protocol (LDAP) for Kubernetes™
 
 Getting Started
-===============
+================
 This project provides an LDAP authentication webhook for Kubernetes. 
 The current implementation exposes two endpoints:
 - /authenticate: Handles token authentication requests coming from Kubernetes
